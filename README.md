@@ -19,7 +19,7 @@ cd Kali-Nethunter
 ```
 
 ```
-chmod +x kali-Nethunter
+chmod +x kali-nethunter
 ```
 
 ```
